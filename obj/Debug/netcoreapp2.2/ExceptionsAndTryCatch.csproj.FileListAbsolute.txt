@@ -1,0 +1,11 @@
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/bin/Debug/netcoreapp2.2/ExceptionsAndTryCatch.deps.json
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/bin/Debug/netcoreapp2.2/ExceptionsAndTryCatch.runtimeconfig.json
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/bin/Debug/netcoreapp2.2/ExceptionsAndTryCatch.runtimeconfig.dev.json
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/bin/Debug/netcoreapp2.2/ExceptionsAndTryCatch.dll
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/bin/Debug/netcoreapp2.2/ExceptionsAndTryCatch.pdb
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.csprojAssemblyReference.cache
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.csproj.CoreCompileInputs.cache
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.AssemblyInfoInputs.cache
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.AssemblyInfo.cs
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.dll
+/Users/maryremo/nss/csharp/exercises/ExceptionsAndTryCatch/obj/Debug/netcoreapp2.2/ExceptionsAndTryCatch.pdb
